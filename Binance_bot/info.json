@@ -1,0 +1,12 @@
+{ "prices": [
+  {"symbol": "XRPBUSD",
+  "sell": 0.49,
+  "buy": 0.48},
+  {"symbol": "ETHUSDT",
+  "sell": 1350,
+  "buy": 1300},
+  {"symbol": "BTCUSDT",
+  "sell": 20115,
+  "buy": 20000}
+]
+}
