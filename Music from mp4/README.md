@@ -1,1 +1,1 @@
-Script for convertation mp3 in mp4
+Script for convertation mp4 to mp3
